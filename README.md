@@ -1,2 +1,2 @@
 # myworkwow
-guide wow
+guide for world of warcraft! 
