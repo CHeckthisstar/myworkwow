@@ -1,17 +1,40 @@
 body {
     background-color: #22202060;
-font-size: 25px;
-font-weight: 100;
-font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
 }
-#war {color:rgb(92, 39, 39); text-shadow: 1px 1px 1px #000}
-#paladin {color:rgb(218, 85, 184); text-shadow: 1px 1px 1px #000}
-#hunter {color:green; text-shadow: 1px 1px 1px #000} 
-#rog {color: yellow; text-shadow: 1px 1px 1px #000}
-#prist {color: white; text-shadow: 1px 1px 1px #000}
-#sham {color: blue; text-shadow: 1px 1px 1px #000}
-#mage {color: rgb(0, 183, 255); text-shadow: 1px 1px 1px #000}
-#warlock {color:blueviolet; text-shadow: 1px 1px 1px #000}
-#druid {color: orange; text-shadow: 1px 1px 1px #000}
-#dk {color: red; text-shadow: 1px 1px 1px #000}
- 
+#war {
+    color:rgb(92, 39, 39); }
+    
+#paladin {
+    color:rgb(218, 85, 184); 
+   
+}
+#hunter {
+    color:green; 
+    
+} 
+#rog {
+    color: yellow; 
+}
+#prist {
+    color: white; 
+    
+}
+#sham {
+    color: blue;
+}
+#mage 
+{color: rgb(s0, 183, 255);
+}
+#warlock {
+    color:blueviolet;
+}
+#druid 
+{color: orange;
+}
+#dk {
+    color: red;
+}
+.list-of-class-shadow {text-shadow: 1px 1px 1px #000}
